@@ -119,4 +119,4 @@ OpenSource has a webviewer which shows all of the icons, sources, names, etc. In
 - [themasterofjohns](https://github.com/themasterofjohns)
 - [lucaspontoexe](https://github.com/lucaspontoexe)
 - [DeltaOm3gaCharting](https://github.com/DeltaOm3gaCharting)
-- [brassmonke2](https://github.com/brassmonke2)
+- [brassmonke2](https://github.com/brassmonke2) or [thebrassmonke](https://github.com/thebrassmonke)
